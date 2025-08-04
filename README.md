@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Avaliação III – Padrões de Projeto
 
 Este projeto implementa o módulo de registro e apuração de desempenho em corridas de orientação.
@@ -52,4 +53,3 @@ Este projeto implementa o módulo de registro e apuração de desempenho em corr
 	1.Descomente o cenário desejado na classe Main
 	2.Comente os demais cenários para isolar o teste
 	3.Execute a aplicação
-

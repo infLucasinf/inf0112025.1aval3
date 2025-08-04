@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Avaliação III – Padrões de Projeto
 
 Este projeto implementa o módulo de registro e apuração de desempenho em corridas de orientação.
